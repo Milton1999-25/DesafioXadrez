@@ -3,7 +3,6 @@
 int main(void){
 
     printf("Desafio Jogo de Xadrez\n");
-
     int casas_torre = 5;
     int casas_bispo = 5;
     int casas_rainha = 8;
